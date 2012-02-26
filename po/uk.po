@@ -1,0 +1,344 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: branch 1.10\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2012-02-26 17:22+0100\n"
+"PO-Revision-Date: 2012-02-22 00:18+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. [multiplayer]: id=inanna_microcave
+#: Maps_by_Inanna/scenarios/2p_microcave.cfg:7
+msgid "2p - Microcave"
+msgstr ""
+
+#. [multiplayer]: id=inanna_microcave
+#: Maps_by_Inanna/scenarios/2p_microcave.cfg:9
+msgid ""
+"Microcave, Version 0.2 Created by Inanna\n"
+"Microcave ... gehts noch kleiner? The map is very very small."
+msgstr ""
+
+#. [side]
+#: Maps_by_Inanna/scenarios/2p_microcave.cfg:39
+#: Maps_by_Inanna/scenarios/4p_eastwestpass.cfg:21
+#: Maps_by_Inanna/scenarios/4p_eastwestpass.cfg:45
+#: Maps_by_Inanna/scenarios/4p_faerietheme.cfg:39
+#: Maps_by_Inanna/scenarios/4p_faerietheme.cfg:51
+msgid "teamname^West"
+msgstr ""
+
+#. [side]
+#: Maps_by_Inanna/scenarios/6p_twisterdesert.cfg:51
+#: Maps_by_Inanna/scenarios/6p_twisterdesert.cfg:69
+#: Maps_by_Inanna/scenarios/2p_microcave.cfg:45
+#: Maps_by_Inanna/scenarios/6p_oasis_in_freeze.cfg:51
+#: Maps_by_Inanna/scenarios/6p_oasis_in_freeze.cfg:69
+#: Maps_by_Inanna/scenarios/4p_eastwestpass.cfg:33
+#: Maps_by_Inanna/scenarios/4p_eastwestpass.cfg:57
+#: Maps_by_Inanna/scenarios/4p_faerietheme.cfg:45
+#: Maps_by_Inanna/scenarios/4p_faerietheme.cfg:57
+msgid "teamname^East"
+msgstr ""
+
+#. [side]: id=Gegner7
+#. [side]: id=Gegner3
+#. [side]: id=Gegner5
+#: Maps_by_Inanna/scenarios/6p_twisterdesert.cfg:77
+#: Maps_by_Inanna/scenarios/2p_microcave.cfg:53
+#: Maps_by_Inanna/scenarios/6p_oasis_in_freeze.cfg:77
+#: Maps_by_Inanna/scenarios/6p_fortification.cfg:85
+#: Maps_by_Inanna/scenarios/4p_faerietheme.cfg:65
+msgid "Monsters"
+msgstr ""
+
+#. [objectives]
+#: Maps_by_Inanna/scenarios/2p_microcave.cfg:72
+msgid "Microcave, Created by Inanna.\n"
+msgstr ""
+
+#. [objective]: condition=win
+#: Maps_by_Inanna/scenarios/2p_microcave.cfg:75
+msgid "Defeat the enemy leader.\n"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Maps_by_Inanna/scenarios/2p_microcave.cfg:80
+#: Maps_by_Inanna/scenarios/4p_eastwestpass.cfg:79
+msgid "The death of your leader.\n"
+msgstr ""
+
+#. [multiplayer]: id=inanna_eastwestpass
+#: Maps_by_Inanna/scenarios/4p_eastwestpass.cfg:7
+msgid "4p - East West Pass"
+msgstr ""
+
+#. [multiplayer]: id=inanna_eastwestpass
+#: Maps_by_Inanna/scenarios/4p_eastwestpass.cfg:9
+msgid ""
+"East West Pass, Version 0.3 Created by Inanna.\n"
+"It has always been the neighbors on the other side of the mountains are a "
+"nuisance. This time will be made ??in alliance with our ally against the "
+"arrogant thief clean sweep."
+msgstr ""
+
+#. [objectives]
+#: Maps_by_Inanna/scenarios/4p_eastwestpass.cfg:71
+msgid "East West Pass, Created by Inanna.\n"
+msgstr ""
+
+#. [objective]: condition=win
+#: Maps_by_Inanna/scenarios/6p_twisterdesert.cfg:99
+#: Maps_by_Inanna/scenarios/6p_oasis_in_freeze.cfg:99
+#: Maps_by_Inanna/scenarios/4p_eastwestpass.cfg:74
+#: Maps_by_Inanna/scenarios/6p_fortification.cfg:107
+#: Maps_by_Inanna/scenarios/4p_faerietheme.cfg:87
+msgid "Defeat of all enemy leaders.\n"
+msgstr ""
+
+#. [event]
+#: Maps_by_Inanna/scenarios/6p_twisterdesert.cfg:116
+#: Maps_by_Inanna/scenarios/6p_oasis_in_freeze.cfg:116
+#: Maps_by_Inanna/scenarios/4p_eastwestpass.cfg:88
+#: Maps_by_Inanna/scenarios/6p_fortification.cfg:124
+msgid "Ariweta"
+msgstr ""
+
+#. [event]
+#: Maps_by_Inanna/scenarios/6p_twisterdesert.cfg:117
+#: Maps_by_Inanna/scenarios/6p_oasis_in_freeze.cfg:117
+#: Maps_by_Inanna/scenarios/4p_eastwestpass.cfg:89
+#: Maps_by_Inanna/scenarios/6p_fortification.cfg:125
+msgid "Barumera"
+msgstr ""
+
+#. [event]
+#: Maps_by_Inanna/scenarios/6p_twisterdesert.cfg:118
+#: Maps_by_Inanna/scenarios/6p_oasis_in_freeze.cfg:118
+#: Maps_by_Inanna/scenarios/4p_eastwestpass.cfg:90
+#: Maps_by_Inanna/scenarios/6p_fortification.cfg:126
+msgid "Corumara"
+msgstr ""
+
+#. [event]
+#: Maps_by_Inanna/scenarios/6p_twisterdesert.cfg:119
+#: Maps_by_Inanna/scenarios/6p_oasis_in_freeze.cfg:119
+#: Maps_by_Inanna/scenarios/4p_eastwestpass.cfg:91
+#: Maps_by_Inanna/scenarios/6p_fortification.cfg:127
+msgid "Dogarua"
+msgstr ""
+
+#. [multiplayer]: id=inanna_faerietheme
+#: Maps_by_Inanna/scenarios/4p_faerietheme.cfg:7
+msgid "4p - Faerie Theme"
+msgstr ""
+
+#. [multiplayer]: id=inanna_faerietheme
+#: Maps_by_Inanna/scenarios/4p_faerietheme.cfg:9
+msgid ""
+"Faerie Theme, Version 0.2 Created by Inanna.\n"
+"Eine winzige Map für 4 Spieler in 2 Teams."
+msgstr ""
+
+#. [objectives]
+#: Maps_by_Inanna/scenarios/4p_faerietheme.cfg:84
+msgid "Faerie Theme, Created by Inanna.\n"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Maps_by_Inanna/scenarios/6p_twisterdesert.cfg:104
+#: Maps_by_Inanna/scenarios/6p_oasis_in_freeze.cfg:104
+#: Maps_by_Inanna/scenarios/6p_fortification.cfg:112
+#: Maps_by_Inanna/scenarios/4p_faerietheme.cfg:92
+msgid "The death of all your leaders.\n"
+msgstr ""
+
+#. [multiplayer]: id=inanna_fortification
+#: Maps_by_Inanna/scenarios/6p_fortification.cfg:7
+msgid "6p - Fortification"
+msgstr ""
+
+#. [multiplayer]: id=inanna_fortification
+#: Maps_by_Inanna/scenarios/6p_fortification.cfg:9
+msgid ""
+"Fortification, Version 0.3 Created by Inanna.\n"
+"At first it was just a little dispute about a forgotten piece of swamp land. "
+"More and more visitors began to fight about, and built six fortresses. "
+"Because of increasing tensions grew these facilities and devoured entire "
+"villages."
+msgstr ""
+
+#. [side]
+#: Maps_by_Inanna/scenarios/6p_twisterdesert.cfg:39
+#: Maps_by_Inanna/scenarios/6p_twisterdesert.cfg:63
+#: Maps_by_Inanna/scenarios/6p_oasis_in_freeze.cfg:39
+#: Maps_by_Inanna/scenarios/6p_oasis_in_freeze.cfg:63
+#: Maps_by_Inanna/scenarios/6p_fortification.cfg:41
+#: Maps_by_Inanna/scenarios/6p_fortification.cfg:62
+msgid "teamname^South-West"
+msgstr ""
+
+#. [side]
+#: Maps_by_Inanna/scenarios/6p_fortification.cfg:48
+#: Maps_by_Inanna/scenarios/6p_fortification.cfg:69
+msgid "teamname^Nord"
+msgstr ""
+
+#. [side]
+#: Maps_by_Inanna/scenarios/6p_fortification.cfg:55
+#: Maps_by_Inanna/scenarios/6p_fortification.cfg:76
+msgid "teamname^South-East"
+msgstr ""
+
+#. [objectives]
+#: Maps_by_Inanna/scenarios/6p_fortification.cfg:104
+msgid "Fortification, Created by Inanna.\n"
+msgstr ""
+
+#. [event]
+#: Maps_by_Inanna/scenarios/6p_twisterdesert.cfg:114
+#: Maps_by_Inanna/scenarios/6p_oasis_in_freeze.cfg:114
+#: Maps_by_Inanna/scenarios/6p_fortification.cfg:121
+msgid "Kampfesmitte"
+msgstr ""
+
+#. [event]
+#: Maps_by_Inanna/scenarios/6p_twisterdesert.cfg:120
+#: Maps_by_Inanna/scenarios/6p_oasis_in_freeze.cfg:120
+#: Maps_by_Inanna/scenarios/6p_fortification.cfg:128
+msgid "Enukera"
+msgstr ""
+
+#. [event]
+#: Maps_by_Inanna/scenarios/6p_twisterdesert.cfg:121
+#: Maps_by_Inanna/scenarios/6p_oasis_in_freeze.cfg:121
+#: Maps_by_Inanna/scenarios/6p_fortification.cfg:129
+msgid "Felinga"
+msgstr ""
+
+#. [object]: id=Wegepunkt
+#: Maps_by_Inanna/scenarios/6p_twisterdesert.cfg:143
+#: Maps_by_Inanna/scenarios/6p_oasis_in_freeze.cfg:143
+#: Maps_by_Inanna/scenarios/6p_fortification.cfg:143
+msgid "Wegepunkt"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Maps_by_Inanna/scenarios/6p_fortification.cfg:157
+msgid ""
+"$unit , Ihr habt als erste die Kampfesmitte erreicht, eure Lebenskraft wird "
+"gesteigert."
+msgstr ""
+
+#. [multiplayer]: id=inanna_oasis_in_freeze
+#: Maps_by_Inanna/scenarios/6p_oasis_in_freeze.cfg:7
+msgid "6p - Oasis in Freeze"
+msgstr ""
+
+#. [multiplayer]: id=inanna_oasis_in_freeze
+#: Maps_by_Inanna/scenarios/6p_oasis_in_freeze.cfg:9
+msgid ""
+"Oasis in Freeze, Version 0.2 Created by Inanna\n"
+"The battle for the large oasis in this freeze desert region reached a climax "
+"when several parties joined together to form alliances in order to gain "
+"dominance over this territory."
+msgstr ""
+
+#. [side]
+#: Maps_by_Inanna/scenarios/6p_twisterdesert.cfg:45
+#: Maps_by_Inanna/scenarios/6p_twisterdesert.cfg:57
+#: Maps_by_Inanna/scenarios/6p_oasis_in_freeze.cfg:45
+#: Maps_by_Inanna/scenarios/6p_oasis_in_freeze.cfg:57
+msgid "teamname^Nord-West"
+msgstr ""
+
+#. [objectives]
+#: Maps_by_Inanna/scenarios/6p_oasis_in_freeze.cfg:96
+msgid "Oasis in Freeze, Created by Inanna.\n"
+msgstr ""
+
+#. [event]
+#: Maps_by_Inanna/scenarios/6p_twisterdesert.cfg:123
+#: Maps_by_Inanna/scenarios/6p_oasis_in_freeze.cfg:123
+msgid "Gorga"
+msgstr ""
+
+#. [event]
+#: Maps_by_Inanna/scenarios/6p_twisterdesert.cfg:124
+#: Maps_by_Inanna/scenarios/6p_oasis_in_freeze.cfg:124
+msgid "Hylaim"
+msgstr ""
+
+#. [event]
+#: Maps_by_Inanna/scenarios/6p_twisterdesert.cfg:125
+#: Maps_by_Inanna/scenarios/6p_oasis_in_freeze.cfg:125
+msgid "Inevra Deep"
+msgstr ""
+
+#. [event]
+#: Maps_by_Inanna/scenarios/6p_twisterdesert.cfg:126
+#: Maps_by_Inanna/scenarios/6p_oasis_in_freeze.cfg:126
+msgid "Jasimo"
+msgstr ""
+
+#. [event]
+#: Maps_by_Inanna/scenarios/6p_twisterdesert.cfg:127
+#: Maps_by_Inanna/scenarios/6p_oasis_in_freeze.cfg:127
+msgid "Kolare"
+msgstr ""
+
+#. [event]
+#: Maps_by_Inanna/scenarios/6p_twisterdesert.cfg:128
+#: Maps_by_Inanna/scenarios/6p_oasis_in_freeze.cfg:128
+msgid "Laring"
+msgstr ""
+
+#. [event]
+#: Maps_by_Inanna/scenarios/6p_twisterdesert.cfg:129
+#: Maps_by_Inanna/scenarios/6p_oasis_in_freeze.cfg:129
+msgid "Morgar un Dormo"
+msgstr ""
+
+#. [event]
+#: Maps_by_Inanna/scenarios/6p_twisterdesert.cfg:130
+#: Maps_by_Inanna/scenarios/6p_oasis_in_freeze.cfg:130
+msgid "Nebar ain Lurma"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Maps_by_Inanna/scenarios/6p_twisterdesert.cfg:157
+#: Maps_by_Inanna/scenarios/6p_oasis_in_freeze.cfg:157
+msgid ""
+"Ihr habt als erste die Kampfesmitte erreicht, eure Lebenskraft wird "
+"gesteigert."
+msgstr ""
+
+#. [multiplayer]: id=inanna_twisterdesert
+#: Maps_by_Inanna/scenarios/6p_twisterdesert.cfg:7
+msgid "6p - Twister Desert"
+msgstr ""
+
+#. [multiplayer]: id=inanna_twisterdesert
+#: Maps_by_Inanna/scenarios/6p_twisterdesert.cfg:9
+msgid ""
+"Twister Desert, Version 0.4 Created by Inanna\n"
+"The battle for the large oasis in this vast desert region reached a climax "
+"when several parties joined together to form alliances in order to gain "
+"dominance over this territory."
+msgstr ""
+
+#. [objectives]
+#: Maps_by_Inanna/scenarios/6p_twisterdesert.cfg:96
+msgid "Twister Desert, Created by Inanna.\n"
+msgstr ""
+
+#. [terrain_type]: id=hot_spring
+#: Maps_by_Inanna/utils/terrain.cfg:9
+msgid "Heiße Quelle"
+msgstr ""
